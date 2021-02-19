@@ -8,6 +8,7 @@ var myForm = document.querySelector("#myform")
 myForm.addEventListener("submit", function(e) {
     e.preventDefault();
     var DOB = myForm.elements.DOB.value
+    let dobArray = DOB.split("-");
 
 
 })
