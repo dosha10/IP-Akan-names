@@ -15,6 +15,7 @@ The project is a web application that takes a user's birthday and calculates the
 *[HTML5]
 *[CSS]
 *[javaScript]
+*[Markdown]
 
 ## BDD
 Enter the D.O.B, 
