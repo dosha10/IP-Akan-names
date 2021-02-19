@@ -4,7 +4,10 @@ var maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
 var femaleNames = ["Akosua", "Adwoa", "Abenaa", "Yaa", "Ama"];
 
 
-var myForm = document.getElementById("#myform")
+var myForm = document.querySelector("#myform")
 myForm.addEventListener("submit", function(e) {
+    e.preventDefault();
+    var DOB = myForm.elements.DOB.value
+
 
 })
