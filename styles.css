@@ -100,3 +100,26 @@ body {
     border-radius: 9px;
     border: 0;
 }
+
+.para2 {
+    font-size: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius: 9px;
+}
+
+.days-male {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.para3 {
+    font-size: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.days-female {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
