@@ -1,6 +1,6 @@
 var CC, YY, MM, DD, d, dayValue, newName;
 var result = document.getElementById("result")
-var dayNames = ["Sunday", "Monday", "Wednesday", "Thursday", "Friday", "Saturaday"];
+var dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturaday"];
 var maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
 var femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
 var getGender = () => {
