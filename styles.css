@@ -50,3 +50,33 @@ body {
     font-family: 'Noto Sans JP', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
 }
+
+.heading4 {
+    font-size: 40px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.birth-year {
+    font-size: 15px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.birth-month {
+    font-size: 15px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.birth-date {
+    font-size: 15px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.sex {
+    font-size: 15px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
