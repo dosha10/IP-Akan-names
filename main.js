@@ -9,6 +9,8 @@ myForm.addEventListener("submit", function(e) {
     e.preventDefault();
     var DOB = myForm.elements.DOB.value
     let dobArray = DOB.split("-");
-
+    YY = dobArray[0];
+    MM = dobArray[1] - 1;
+    DD = bodArray[2]
 
 })
