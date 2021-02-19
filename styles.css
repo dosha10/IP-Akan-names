@@ -57,44 +57,14 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-.birth-year {
-    font-size: 15px;
-    font-family: 'Noto Sans JP', sans-serif;
-    font-family: 'Source Sans Pro', sans-serif;
-}
-
-.birth-month {
-    font-size: 15px;
-    font-family: 'Noto Sans JP', sans-serif;
-    font-family: 'Source Sans Pro', sans-serif;
-}
-
-.birth-date {
-    font-size: 15px;
-    font-family: 'Noto Sans JP', sans-serif;
-    font-family: 'Source Sans Pro', sans-serif;
-}
-
-.sex {
-    font-size: 15px;
-    font-family: 'Noto Sans JP', sans-serif;
-    font-family: 'Source Sans Pro', sans-serif;
-}
-
-.male {
-    font-size: 15px;
-    font-family: 'Noto Sans JP', sans-serif;
-    font-family: 'Source Sans Pro', sans-serif;
-}
-
-.female {
-    font-size: 15px;
+#myform {
+    font-size: 25px;
     font-family: 'Noto Sans JP', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
 .btn {
-    font-size: 15px;
+    font-size: 20px;
     font-family: 'Noto Sans JP', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
     border-radius: 9px;
@@ -102,7 +72,6 @@ body {
 }
 
 .para2 {
-    font-size: 30px;
     font-family: 'Noto Sans JP', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
     border-radius: 9px;
