@@ -2,7 +2,7 @@ var CC, YY, MM, DD, d, dayValue;
 var dayNames = ["Sunday", "Monday", "Wednesday", "Thursday", "Friday", "Saturaday"];
 var maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
 var femaleNames = ["Akosua", "Adwoa", "Abenaa", "Yaa", "Ama"];
-
+var getGender
 
 var myForm = document.querySelector("#myform")
 myForm.addEventListener("submit", function(e) {
@@ -11,6 +11,13 @@ myForm.addEventListener("submit", function(e) {
     let dobArray = DOB.split("-");
     YY = dobArray[0];
     MM = dobArray[1] - 1;
-    DD = bodArray[2]
+    DD = bodArray[2];
+    var date = new Date(YY, MM, DD);
+    dayValue = date.getDay();
+    if
+
+
+
+
 
 })
