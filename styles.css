@@ -97,4 +97,6 @@ body {
     font-size: 15px;
     font-family: 'Noto Sans JP', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
+    border-radius: 9px;
+    border: 0;
 }
