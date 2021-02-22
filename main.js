@@ -10,7 +10,7 @@ var getGender = () => {
     if (document.getElementById("female").checked) {
         return document.getElementById("female").value;
     }
-    return false;
+    alert("Please enter a valid date!");
 };
 
 var myForm = document.querySelector("#myform")
