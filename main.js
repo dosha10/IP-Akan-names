@@ -25,12 +25,12 @@ myForm.addEventListener("submit", function(e) {
     dayValue = date.getDay();
     if (getGender() === "male") {
         newName = maleNames[dayValue]
-        alert("your new name " + newName);
+        result.innerText = "your new name " + newName;
 
     }
     if (getGender() === "female") {
         newName = femaleNames[dayValue]
-        alert("your new name " + newName);
+        result.innerText = "your new name " + newName;
     }
 
 
